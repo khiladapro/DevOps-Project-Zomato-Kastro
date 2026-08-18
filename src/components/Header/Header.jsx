@@ -35,7 +35,7 @@ const Header = () => {
       )}
       <div className="headerContent">
         <img src={Logo} alt="logo" />
-        <h3>Discover the best food & drinks in Patna</h3>
+        <h3>This is the Salim Ali</h3>
         <div className="input">
           <select name="" id="">
             <option value="Chennai">Chennai</option>
@@ -47,7 +47,7 @@ const Header = () => {
           |
           <input
             type="text"
-            placeholder="Search for restaurant, cuisine or a dish"
+            placeholder="Hack The Box"
           />
         </div>
       </div>
